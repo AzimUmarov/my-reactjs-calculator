@@ -1,0 +1,12 @@
+.button{
+    background: rgba(49, 46, 46, 0.89);
+    width: 20vh;
+    height: 14vh;
+    border-radius: 14px;
+    margin: .5vh;
+    text-align: center;
+    font-size: 8.5vh;
+}
+.button:hover{
+    background: rgba(35, 19, 19, 0.89);
+}

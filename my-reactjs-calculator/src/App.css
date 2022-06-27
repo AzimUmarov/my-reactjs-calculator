@@ -1,0 +1,22 @@
+.board{
+  background: rgb(88, 204, 65);
+  border-radius: 14px;
+  color: #ffffff;
+  width: 80vh;
+  height: 75vh;
+  margin: 10vh;
+}
+
+.display{
+  border-radius: 14px;
+  background: #000;
+  width: 80vh;
+  height: 15vh;
+  text-align: center;
+  font-size: 8.5vh;
+  color: #fff;
+}
+
+input:focus{
+  outline: none;
+}
